@@ -1,11 +1,11 @@
 ## Мой стек технологий и полезные команды
 
 
-HTML5+CSS3
+HTML5+CSS3(FlexBox)
 
-JavaScript+ES6, Jquery, Ajax
+JavaScript+ES6, TypeScript, Jquery, Ajax
 
-Webpack, Pug, Sass,NPM, Git
+Webpack, Pug, Sass,NPM, Git, БЭМ
 
 PHP, Yii2, WordPress
 
