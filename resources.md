@@ -13,4 +13,9 @@
 11. [БЭМ](https://ru.bem.info/methodology/quick-start/)
 12. [Стандарты верстки](https://github.com/fullstack-development/front-end-best-practices)
 13. [Тест на уровень Junior Front-edn Developer for FSD](https://github.com/fullstack-development/developers-roadmap/tree/master/frontend/junior-1s)
+## Переводчики
+1. [HTML TO PUG](https://html-to-pug.com/)
+
+
+
 
