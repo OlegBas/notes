@@ -3,9 +3,10 @@
 
 HTML5+CSS3(FlexBox)
 
-JavaScript+ES6, TypeScript, Jquery, Ajax
-
-Webpack, Pug, Sass,NPM, Git, БЭМ,DRY,SOLID
+JavaScript+ES6, Jquery, Ajax
+БЭМ,KISS,DRY,YAGNI,CI/CD,SOLID,MVC
+Pug, Sass,TypeScript,Babel
+Webpack,NPM, Git,JEST,Node.js(основы),ESLint,UML
 
 PHP, Yii2(SQL,Active Record, CRUD, валидация и роутинг), WordPress
 
