@@ -1,6 +1,5 @@
 ## Мой стек технологий и полезные команды
 
-
 HTML5+CSS3(FlexBox)
 
 JavaScript+ES6, Jquery, Ajax
@@ -10,7 +9,7 @@ Webpack,NPM, Git,JEST,Node.js(основы),ESLint,UML
 
 PHP, Yii2(SQL,Active Record, CRUD, валидация и роутинг), WordPress
 
-## Среды разработки 
+## Среды разработки
 
 VS Code, Sublime Text 3
 
@@ -39,29 +38,36 @@ VS Code, Sublime Text 3
 
 1. F1 - run VS Code
 2. F2 - Rename
-3. F3 - run Chrome
+3. ctrl+alt+1 - run Chrome
 4. F4 - off computer
 5. F5 - Reload Broser / Zen Mode
-6. F6 - Comment 
+6. ctrl + / - Comment
 7. F7 - toggle command line
 8. F8 - toggle sidebar
-9. F9 - copy (ctrl+c)
-10. F10 - paste (ctrl+v)
-10. F11 - search of files (ctrl+p)
-11. F12 - search of file (ctrl+f)
-
-
-12. Home - Show Todo Tree 
-13. End - Show Bookmarks
-14. Ctrl+D - Copy Down
+9. ctrl+p search of files
+10. ctrl+f - search of file
+11. Show Todo Tree
+12. Show Bookmarks
+13. Ctrl+D - Copy Down
+14. ctrl+h - замена
+15. сtrl+g - переход к строке
 
 ## дополнительная цифровая клавиатура
 
-15. 1 - commit
-16. 2 - push
-17. 3 - commit --amend
-18. 4 - push --force
+20. 1 - commit
+21. 2 - push
+22. 3 - commit --amend
+23. 4 - push --force
 
-19. Win + (стрелка влево/вправо) - прикрепить активное окно влево/ вправо
+24. Win + (стрелка влево/вправо) - прикрепить активное окно влево/ вправо
+25. ctrl+shift - создание ярлыка
+26. ctrl+shift+n - создание папки
 
+## Проектирование ПП
 
+1. Сценарии работы в ИС
+2. ТЗ
+3. ER-модель БД (модель сущность-связь)
+4. Прототипы интерфейсов
+5. UML-модель предметной области
+6. Физическая и логическая структуры веб-приложения
